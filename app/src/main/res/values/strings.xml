@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cmu</string>
+    <string name="default_web_client_id">910507527738-2mgcudqevanvu4cmsvns4k53v94biha0.apps.googleusercontent.com</string>
+    <string name="title_activity_google_sign_in">GoogleSignIn</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="MAPS_API_KEY">AIzaSyAG_ZbYaXPWRszfWCroidY4FwFVJLhxdVg</string>
+</resources>
